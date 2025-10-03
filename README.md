@@ -94,7 +94,7 @@ Ganti semua placeholder seperti [Nama Anda], [username-github], [link-portofolio
 
 <!-- FOOTER GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczlnYmR3anZnbmVuM2EwOW9rZzF3MHUyam0yY2FmenM0YnpwZ2FqMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/j3gsT2RsH9K0g/giphy.gif" width="80%" alt="abstract futuristic gif" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OXRmejlyNGNicW93Z2pubjZyaTZkZ2J3OGw1dDBjb2kwZzFoNHQ5OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fxI1G5PNC5esyNlIUs/giphy.gif" width="100%" alt="abstract futuristic gif" />
 </p>
 
 <!-- END OF FILE -->
