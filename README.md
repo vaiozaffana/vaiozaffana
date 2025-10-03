@@ -19,7 +19,7 @@ Ganti semua placeholder seperti [Nama Anda], [username-github], [link-portofolio
 </p>
 
 <p align="center">
-  <a href="vaiozaffana.my.id" target="_blank">
+  <a href="https://vaiozaffana.my.id" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Available_for_Hire-00FFFF?style=for-the-badge&logo=reverbnation&logoColor=000" />
@@ -82,7 +82,7 @@ Ganti semua placeholder seperti [Nama Anda], [username-github], [link-portofolio
 ## 🌌 Let's Connect
 
 <p align="center">
-  <a href="vaiozaffana.my.id" target="_blank">
+  <a href="https://vaiozaffana.my.id" target="_blank">
     <img src="https://img.shields.io/badge/Website-Visit-4B0082?style=for-the-badge&logo=globe&logoColor=white" />
   </a>
   <a href="mailto:vaiozaffanaofficalit@gmail.com">
