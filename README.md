@@ -5,7 +5,7 @@ Ganti semua placeholder seperti [Nama Anda], [username-github], [link-portofolio
 
 <!-- HEADER GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzd6cWlwOWx3b2NuNGVsZHpwamZscGZwamE4MXpwOG9sZzE5Z2RyNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding futuristic gif" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHdiYWpkYzZvdDh4OHc1eWFjaDhhaHk5Z29mYmVjdGNkaDBzc3ZjNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Mcsw0eQCS1GvNmZkhk/giphy.gif" width="75%" alt="coding futuristic gif" />
 </p>
 
 <!-- TITLE & INTRO -->
